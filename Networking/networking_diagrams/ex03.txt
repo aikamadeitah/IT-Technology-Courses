@@ -1,0 +1,17 @@
+Virtualization:
+
+Virtualization refers to the creation of a virtual resource such as a server, desktop, operating system, file, storage or network.
+The most common form of virtualization is the operating system-level virtualization. In operating system-level virtualization, it is possible to run multiple operating systems on a single piece of hardware. Virtualization technology involves separating the physical hardware and software by emulating hardware using software. When a different OS is operating on top of the primary OS by means of virtualization, it is referred to as a virtual machine.
+
+A Virtual Machine is a type of sofware that allows us to run a operating system within another operating system.
+
+Reasons to use a virtual machine
+-trying a new operating system
+-testing an application
+-running old applications
+
+---------------
+Sources:
+[https://www.youtube.com/watch?v=yIVXjl4SwVo]
+
+[https://www.techopedia.com/definition/719/virtualization]

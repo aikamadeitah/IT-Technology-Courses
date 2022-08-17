@@ -1,0 +1,26 @@
+﻿Online Resources:
+
+IP ADDRESS:
+
+An IP address, or simply an "IP," is a unique address that identifies a device on the Internet or a local network.
+
+https://techterms.com/definition/ip_address
+
+*This page contains a technical definition of IP Address. It explains in computing terminology what IP Address means.
+
+https://www.investopedia.com/terms/i/ip-address.asp
+
+*A good website reference because it explains the four different types of IP addresses.
+
+
+ROUTER:
+
+This is a hardware device that routes data (hence the name) from a local area network (LAN) to another network connection. A router acts like a coin sorting machine, allowing only authorized machines to connect to other computer systems.
+
+https://www.lifewire.com/what-is-a-router-2618162
+
+*This website gives information about what a router is supposed to do and how it works.
+
+https://techterms.com/definition/router
+
+*All definitions on the TechTerms website are written to be technically accurate but also easy to understand
